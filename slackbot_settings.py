@@ -1,4 +1,4 @@
-API_TOKEN = "xoxb-547186259859-2721817748928-vOHFdY4PGSrZUqyzW3iXKr2U"
+API_TOKEN = "xxxxxxxxxxxxxxxxxxxxxx"
 
 DEFAULT_REPLY = "botです"
 
